@@ -17,4 +17,7 @@ oh wait make sure to download it btw, new to github sorry
 
 
 
-  EDIT: 2   so in the day or two i had to work on it, i added a few things. nothing much, just something simple
+  EDIT: 2   so in the day or two i had to work on it, i added a few things. nothing much, just something simple.
+
+
+  IMPORTANT NOTE!! WHEN YOU DOWNLOAD THE RAW FILE, RENAME THE END OF THE FILE FROM '.txt' TO '.html'
